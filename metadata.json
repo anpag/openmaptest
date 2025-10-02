@@ -1,0 +1,5 @@
+{
+  "name": "UK Postcode Area Visualizer",
+  "description": "Enter a UK postal code to see its approximate geographical area drawn on an interactive OpenStreetMap. Ideal for visualizing postcode districts, sectors, and administrative boundaries.",
+  "requestFramePermissions": []
+}
